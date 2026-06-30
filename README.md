@@ -1,4 +1,3 @@
-
 # SmartZ: Fusion of zk-Rollups and decentralized architectures unlocks high-performance, secure, and transparent data processing across the Network Implementation
 > Advanced python solution leveraging modern architecture patterns and cutting-edge technology.
 
